@@ -1,3 +1,4 @@
+==========================================
 01) Information Gathering
 02) Vulnerability Analysis
 03) Exploitation Tools
@@ -13,4 +14,82 @@
 13) Reporting Tools
 14) Extra Tools
 15) Accessosies Tools
+16) System Tools
+==========================================
+
+
+01) Information Gathering
+	• DNS Analysis
+	• IDS/IPS Identification
+	• Live Host Identification
+	• Network & Port Scanners
+	• OSINT Analysis
+	• Route Analysis
+	• SMB Analysis
+	• SMTP Analysis
+	• SNMP Analysis
+	• SSL Analysis
+  
+02) Vulnerability Analysis
+	• Cisco Tools
+	• Fuzzing Tools
+	• Nessus Scanner
+	• OpenVAS Scanner
+	• VoIP Tools
+  
+03) Exploitation Tools
+	• OS Backdoors
+	• Tunneling & Exfiltration
+	• Web Backdoors
+  
+04) Wireless Attacks
+	• 802.11 Wireless Tools
+	• Bluetooth Tools
+	• Other Wireless Tools
+	• RFID & NFC Tools
+	• Software Defined Radio
+  
+05) Forensics Tools
+	• Digital Forensics
+	• Forensic Carving Tools
+	• Forensic Hashing Tools
+	• Forensic Imaging Tools
+	• PDF Forensics Tools
+	• Sleuth Kit Suite
+  
+06) Web Applications
+	• CMS & Framework Identification
+	• Web Application Proxies
+	• Web Crawlers & Directory Bruteforce
+	• Web Vulnerability Scanners
+  
+07) Stress Testing
+
+08) Sniffing & Spoofing
+	• Network Sniffers
+	• Spoofing and MITM
+  
+09) Password Attacks
+	• Offline Attacks
+	• Online Attacks
+	• Passing the Hash tools
+	• Password Profiling & Wordlists
+  
+10) Maintaining Access
+	• BeEF
+	• Dradis
+	• Metasploit
+	• OpenVas
+	• Xplico
+  
+11) Hardware Hacking
+
+12) Reverse Engineering
+
+13) Reporting Tools
+
+14) Extra Tools
+
+15) Accessories Tools
+
 16) System Tools
