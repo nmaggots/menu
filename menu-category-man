@@ -1,0 +1,41 @@
+01) Information Gathering
+	Information gathering adalah sub tools yang berisi tools-tools yang digunakan atau berhubungan dengan mengumpulkan informasi (information gathering). Seorang attacker akan terlebih dahulu mengumpulkan informasi-informasi targetnya sebelum dia melakukan exploitasi dan explorasi. Informasi yang dikumpulkan biasanya informasi ip, port, protokol, dns, record. Contoh tools yang sering digunakan disini adalah nmap, hping, unicorn, openvas, dll.
+
+02) Vulnerability Analysis
+    Vulnerability assesment (VA) diterjemahkan dalam bahasa Indonesia menjadi ‘pengukuran kelemahan serangan’. Dari kamus Oxford arti vulnerable adalah: exposed to being attacked or harmed, either physically or emotionally. Sebenarnya paling mudah adalah menerjemahkan vulnerability sebagai kelemahan atas serangan dari luar.
+
+03) Exploitation Tools
+	Exploitation tools adalah sub tools menu yang berisi tools-tools yang dipakai untuk melakukan tindakan explotasi setelah tahap pengumpulan informasi dan VA selesai.
+
+04) Wireless Attacks
+
+05) Forensics Tools
+	Kumpulan tools yang berhubungan dengan digital forensics. Forensic sendiri digunakan untuk melakukan penyelidikan-penyelidikan pada kasus-kasus cybercrime. Forensic dilakukan dengan berbagai tools untuk menganalisa file, software, dan hardware dengan tujuan tertentu.
+
+06) Web Applications
+07) Stress Testing
+	Kumpulan tools yang berhubungan dengan aksi ddos yaitu tindakan flooding yang didatangkan dari kumpulan hosts (lebih dari satu hosts).
+
+08) Sniffing & Spoofing
+
+09) Password Attacks
+
+10) Maintaining Access
+	Biasanya setelah melakukan explotasi dan PE, attacker akan meninggalkan pintu masuk (backdoors) yang nantinya akan membuka suatu kesempatan atau peluang untuk kembali memasuki sistem tersebut kapan saja. Sub tools ini berisi tools-tools untuk menciptakan backdoor-backdoor tertentu.
+
+11) Hardware Hacking
+
+12) Reverse Engineering
+	Reverse engineering adalah suatu proses yang bertujuan untuk menemukan prinsip-prinsip teknologi perangkat tertentu, objek, atau sistem melalui analisis struktur, fungsi, dan operasi. Reverse engineering analisis hardware untuk keuntungan komersial atau militer.
+
+13) Reporting Tools
+	Lebih kepada tools dan aplikasi untuk penggunaan dokumentasi dan laporan aksi atau kegiatan-kegiatan.
+
+14) Extra Tools
+	Digunakan untuk bermacam-macam kebutuhan lainnya.
+
+15) Accessosies Tools
+	Peraltan Umum Aplikasi desktop. (calculator, internet, text editor dan lain lain)
+
+16) System Tools
+	Peralatan dan Konfigurasi System (pengaturan desktop dan lain lain yang berhubungan dengan pengaturan dan konfigurasi)
