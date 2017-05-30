@@ -24,19 +24,21 @@ A B C D E F G H I J K L M N O P Q R S T U P W X Y Z
 	• 00 Sub Category
 	  	00 Tools in Sub Category
         00 Tools in Top Level Category
-	
-Note : * New Category or Tools
 =====================================================
-
+Referensi :
+[*] https://dev.dracos-linux.org/projects/dracoslinux/wiki/Penetration_Testing
+[%] http://tools.kali.org/tools-listing
+[#] http://cyborg.ztrela.com/tools/
+=====================================================
 01) Information Gathering
 	• DNS Analysis
-		dnsdict6 *
-		dnsenum *
-		dnmap *
-		dnsmap *
-		dnsrecon *
+		dnsdict6 * https://www.thc.org/thc-ipv6/ 
+		dnsenum * https://github.com/fwaeytens/dnsenum
+		dnmap * https://github.com/pblondin/dnmap-charms
+		dnsmap * https://code.google.com/archive/p/dnsmap/
+		dnsrecon * https://github.com/darkoperator/dnsrecon
 		dnsrevnum6 *
-		dnswalk *
+		dnswalk * https://sourceforge.net/projects/dnswalk/files/
 		dnssecwalk *
 		dmitry *
 		fierce *
@@ -52,6 +54,13 @@ Note : * New Category or Tools
 		implementation6 *
 		implementation6d *
 	• IDS/IPS Identification
+        	fragrouter #
+        	fragroute #
+        	ftest #
+        	lbd #
+        	snort #
+        	ua-tester #
+        	wafw00f #
 	• Live Host Identification
 		alive6 *
 		detect-new-ip6 *
@@ -59,8 +68,55 @@ Note : * New Category or Tools
 		inverselookup6 *
 		nodequery6 *
 		randicmp6 *
-		thcping6 *
+		thcping6 *	
+        	alive6 #
+        	angry IP scanner #
+        	arp-scan #
+        	automater #
+   	     	autoscan network #
+   	     	arping #
+   	     	cdpsnarf #
+        	detect-new-ip6 #
+        	detect-sniffer6 #
+        	dig #
+        	dmitry #
+        	dnmap-client #
+        	dnmap-server #
+       	 	fping #
+        	hping3 #
+        	inverse_lookup6 #
+        	miranda #
+        	ncat #
+        	netdiscover #
+        	nmap #
+        	passive_discovery6 #
+		thcping6 #
+        	wol-e #
+        	xprobe2 #
+        	zenmap #
 	• Network & Port Scanners
+        	angry IP scanner #
+        	autoscan network #
+        	dmitry #
+        	dnmap-client #
+        	dnmap-server #
+        	ghost phisher #
+        	multimac #
+        	netdiscover #
+        	knock-scan #
+        	nmap #
+        	zenmap #
+	• Open Source Intelligence  #
+        	casefile #
+        	creepy #
+        	dmitry #
+        	goofile #
+        	jigsaw #
+        	maltego #
+        	metagoofil #
+        	theharvester #
+        	twofi #
+        	urlcrazy #
 	• OSINT Analysis
 	• Port Analysis *
 		braa * 
@@ -75,6 +131,7 @@ Note : * New Category or Tools
 	• SMTP Analysis
 	• SNMP Analysis
 	• SSL Analysis
+	
 
 02) Vulnerability Analysis
 	• Cisco Tools
