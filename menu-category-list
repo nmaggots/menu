@@ -111,9 +111,12 @@ A B C D E F G H I J K L M N O P Q R S T U P W X Y Z
 	• Forensic Imaging Tools
 	• PDF Forensics Tools
 	• Sleuth Kit Suite
-	Network Forensics Tools *
+	• Network Forensics Tools *
 		crackle *					
 		tshark *
+	• Recovery Carving Tools *
+		testdisk *
+		photorec  *
   
 06) Web Applications
 	• CMS & Framework Identification
@@ -122,6 +125,29 @@ A B C D E F G H I J K L M N O P Q R S T U P W X Y Z
 	• Web Vulnerability Scanners
   
 07) Stress Testing
+	dhcpig  *
+	dos-new-ip6  *
+	floodadvertise6  *
+	flooddhcpc6  *
+	floodmld26  *
+	floodmld6  *
+	flood_mldrouter6  *
+	floodredir6  *
+	floodrouter26  *
+	floodrouter6  *
+	floodrs6  *
+	floodsolicitate6  *
+	fragmentation6  *
+	kill_router6  *
+	mdk3  *
+	ndpexhaust6  *
+	ndpexhaust26  *
+	slowhttptest  *
+	slowloris  *
+	smurf6  *
+	termineter  *
+	thc-ssl-dos  *
+	thcsyn6  *
 
 08) Sniffing & Spoofing
 	• Network Sniffers
@@ -132,7 +158,21 @@ A B C D E F G H I J K L M N O P Q R S T U P W X Y Z
 	• Online Attacks
 	• Passing the Hash tools
 	• Password Profiling & Wordlists
-  
+  	aircrack  *
+	doona  *
+	eapmd5pass  *
+	cmospwd  *
+	cowpatty  *
+	enumiax  *
+	findMyhash  *
+	hash-identifier  *
+	hydra  *
+	john  *
+	mkbrutus  *
+	patator  *
+	pyrit  *
+	rainbowcrack  *
+
 10) Maintaining Access
 	• BeEF
 	• Dradis
@@ -143,7 +183,20 @@ A B C D E F G H I J K L M N O P Q R S T U P W X Y Z
 11) Hardware Hacking
 
 12) Reverse Engineering
-
+	asm   *
+	constgrep   *					
+	disasm 	  * 				
+	cyclic 	  *				
+	checksec   *					
+	elfpatch   *					
+	elfdiff   *					
+	gdb   *					
+	hex   *					
+	hexedit   *					
+	hexdump   *					
+	phd   *					
+	unhex  *
+	
 13) Reporting Tools
 
 14) Extra Tools
