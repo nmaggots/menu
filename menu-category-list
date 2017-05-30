@@ -15,21 +15,57 @@
 14) Extra Tools
 15) Accessosies Tools
 16) System Tools
-==========================================
-
+===================================================
+A B C D E F G H I J K L M N O P Q R S T U P W X Y Z
 
 01) Information Gathering
 	• DNS Analysis
+		dnsdict6 *
+		dnsenum *
+		dnmap *
+		dnsmap *
+		dnsrecon *
+		dnsrevnum6 *
+		dnswalk *
+		dnssecwalk *
+		dmitry *
+		fierce *
+		Nmap *
+		urlcrazy * 
+	• Fingerprint Analysis  * 
+	• Firewall Analysis *
+		denial6 *
+		dumprouter6 * 
+		firewall6 * 
+		fragrouter6 *									
+		fragmentation6 *
+		implementation6 *
+		implementation6d *
 	• IDS/IPS Identification
 	• Live Host Identification
+		alive6 *
+		detect-new-ip6 *
+		four2six * 
+		inverselookup6 *
+		nodequery6 *
+		randicmp6 *
+		thcping6 *
 	• Network & Port Scanners
 	• OSINT Analysis
+	• Port Analysis *
+		braa * 
+		hping3  *
+		sslsplit  *
+		sslyz *
+		smtp-user-e *
 	• Route Analysis
+	• Service Analysis *
+		miranda *
 	• SMB Analysis
 	• SMTP Analysis
 	• SNMP Analysis
 	• SSL Analysis
-  
+
 02) Vulnerability Analysis
 	• Cisco Tools
 	• Fuzzing Tools
@@ -45,10 +81,29 @@
 04) Wireless Attacks
 	• 802.11 Wireless Tools
 	• Bluetooth Tools
+		bluelog *
+		bluesnarfer *
+	• GPS Analyssis *
+		kismet *
 	• Other Wireless Tools
 	• RFID & NFC Tools
+		rfidiot *
 	• Software Defined Radio
-  
+		kalibrate-rtl *
+		mfoc *
+	aircrack *
+	asleap *
+	besside-ng *
+	cowpatty *
+	crackle * 
+	eapmd5pass *
+	macchanger *
+	mdk3 *
+	pixiewps *
+	reaver * 
+	wifihoney *
+	wifitap *
+	
 05) Forensics Tools
 	• Digital Forensics
 	• Forensic Carving Tools
@@ -56,6 +111,9 @@
 	• Forensic Imaging Tools
 	• PDF Forensics Tools
 	• Sleuth Kit Suite
+	Network Forensics Tools *
+		crackle *					
+		tshark *
   
 06) Web Applications
 	• CMS & Framework Identification
